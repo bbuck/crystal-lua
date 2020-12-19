@@ -1,0 +1,12 @@
+name: crystal-lua
+description: |
+  An implementation of the Lua scripting language in Crystal (no attachment to the C library).
+
+version: 0.1.0
+
+authors:
+  - Brandon Buck <lordizuriel@gmail.com>
+
+crystal: 0.35.1
+
+license: MIT
